@@ -1,0 +1,14 @@
+uuid: 9f889115-80d8-4f0b-8930-c5aed9296150
+name: 'Rob Drew'
+mail: admin@example.com
+slogan: 'Musician & Information Technologist'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

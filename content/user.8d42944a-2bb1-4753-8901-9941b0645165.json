@@ -1,0 +1,66 @@
+{
+    "uid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8d42944a-2bb1-4753-8901-9941b0645165"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "rdrew"
+        }
+    ],
+    "mail": [
+        {
+            "value": "rdrew@upei.ca"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "UTC"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-07T18:50:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-07T18:50:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "roles": [],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "user_picture": []
+}

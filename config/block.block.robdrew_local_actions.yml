@@ -1,0 +1,20 @@
+uuid: 88e0724b-0497-4c73-b8ad-bd7379a9093c
+langcode: en
+status: true
+dependencies:
+  theme:
+    - robdrew
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: robdrew_local_actions
+theme: robdrew
+region: content
+weight: -20
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,39 @@
+name: robdrew
+type: theme
+base theme: classy
+description: ''
+core: 8.x
+
+regions:
+  navigation: 'Navigation'
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
+
+libraries:
+  - robdrew/global-css
+  - robdrew/global-js
+  #- classy/base
+  #- classy/messages
+  #- core/normalize
+
+libraries-extend:
+  #user/drupal.user:
+    #- classy/user
+  #core/drupal.dropbutton:
+    #- classy/dropbutton
+  #core/drupal.dialog:
+    #- classy/dialog
+  #file/drupal.file:
+    #- classy/file
+  #core/drupal.progress:
+    #- classy/progress
+  #media/media_embed_ckeditor_theme:
+    #- classy/media_embed_ckeditor_theme
+  #media_library/view:
+    #- classy/media_library
+  #media_library/widget:
+    #- classy/media_library
+
+ckeditor_stylesheets:
+  #- css/components/media-embed-error.css

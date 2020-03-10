@@ -1,0 +1,22 @@
+uuid: 94547787-376a-4cb0-b268-30f6dc74fc7f
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - robdrew
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: robdrew_messages
+theme: robdrew
+region: navigation
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

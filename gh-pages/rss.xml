@@ -1,0 +1,594 @@
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_rss' -->
+<!-- BEGIN OUTPUT from 'core/themes/classy/templates/views/views-view-rss.html.twig' -->
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://rdrew.github.io/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Rob Drew - Musician &amp; Information Technologist</title>
+    <link>https://rdrew.github.io/</link>
+    <description></description>
+    <language>en</language>
+    
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>Booking Lessons &amp; Performances</title>
+  <link>https://rdrew.github.io/node/55</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--page.html.twig
+   x field--node--title.html.twig
+   * field--node--page.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:name&quot; class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;Booking Lessons &amp;amp; Performances&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--page.html.twig
+   x field--node--uid.html.twig
+   * field--node--page.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span rel=&quot;schema:author&quot; class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--page.html.twig
+   x field--node--created.html.twig
+   * field--node--page.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2020-03-09T17:49:04+00:00&quot; class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;Mon, 03/09/2020 - 17:49&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--body--page.html.twig
+   * field--node--body.html.twig
+   * field--node--page.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+    &lt;div property=&quot;schema:text&quot; class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items&quot;&gt;
+                &lt;div property=&quot;schema:text&quot; class=&quot;field__item&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo diam, luctus mollis turpis a, ullamcorper vulputate purus. Phasellus et dapibus quam, facilisis consectetur lorem. Mauris vitae erat accumsan, congue risus non, malesuada sapien. Nunc consectetur elementum ante vitae pharetra. Phasellus porta et mauris et laoreet. Fusce neque tellus, egestas at eros nec, viverra ullamcorper lorem. Fusce tempus erat in elit aliquet, id rhoncus nisl blandit. Integer auctor eros non eros aliquet, vitae dignissim dolor auctor. Aliquam dui odio, ultrices vel metus nec, imperdiet luctus nibh. Sed in facilisis nunc, quis vehicula diam. Pellentesque tincidunt odio nec interdum ullamcorper. Suspendisse nec risus at sapien imperdiet ultricies.&lt;/p&gt;
+
+&lt;p&gt;Maecenas ornare tristique semper. Nulla facilisi. Phasellus ut tempor urna. Morbi tincidunt ligula vel magna auctor accumsan. Fusce gravida nisi non tortor consectetur pharetra vitae vel erat. Aenean et dolor tincidunt, varius dui non, ultricies orci. Donec tincidunt felis vel nulla sollicitudin consequat. Quisque sem ipsum, mollis eget quam tristique, posuere ultricies nulla. Curabitur porttitor a ipsum at dapibus. Morbi at aliquet metus. Mauris fermentum dui justo, quis blandit felis sollicitudin commodo. Phasellus in commodo orci, in ultricies nulla. Praesent elementum lobortis lacus vel ornare.&lt;/p&gt;
+
+&lt;p&gt;Proin et augue cursus ipsum vestibulum pulvinar ut id leo. Mauris sagittis lectus sagittis, pellentesque tellus non, porta dolor. Praesent eu metus eget leo tincidunt pharetra. Mauris sit amet massa lacinia, tempor nunc non, sollicitudin sem. In vel rutrum metus. In viverra a turpis nec ultrices. Curabitur eget scelerisque purus. Vestibulum elementum risus quis quam viverra, ut dapibus sem laoreet. Sed tincidunt lacus nec sem venenatis accumsan. Integer nec nisl felis. Donec cursus leo eu sapien tincidunt pharetra. Pellentesque molestie elementum dolor quis porta. Pellentesque tellus turpis, venenatis vitae tortor non, pulvinar porttitor augue.&lt;/p&gt;
+
+&lt;p&gt;Fusce volutpat dui sit amet dui ultrices tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum pulvinar dui sit amet nisl ullamcorper, id lobortis elit egestas. Aenean pellentesque vitae nisi a sollicitudin. Nunc dapibus ultrices facilisis. Pellentesque eu tempus dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin pulvinar eget mauris id luctus. Etiam erat felis, facilisis sit amet dolor nec, vehicula consectetur leo. Nam dapibus convallis justo ac porttitor. In pulvinar eget est eu sollicitudin. Sed tempor, leo et convallis varius, velit enim venenatis lorem, non ultricies neque nunc a eros. Praesent lorem leo, sollicitudin eu mi vitae, vulputate fringilla purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Sed nec massa ac ante consequat porttitor.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   x links--node.html.twig
+   x links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 09 Mar 2020 17:49:04 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">55 at https://rdrew.github.io</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>Web Development &amp; IT</title>
+  <link>https://rdrew.github.io/node/54</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--page.html.twig
+   x field--node--title.html.twig
+   * field--node--page.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:name&quot; class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;Web Development &amp;amp; IT&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--page.html.twig
+   x field--node--uid.html.twig
+   * field--node--page.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span rel=&quot;schema:author&quot; class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--page.html.twig
+   x field--node--created.html.twig
+   * field--node--page.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2020-03-09T17:44:26+00:00&quot; class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;Mon, 03/09/2020 - 17:44&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--body--page.html.twig
+   * field--node--body.html.twig
+   * field--node--page.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+    &lt;div property=&quot;schema:text&quot; class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items&quot;&gt;
+                &lt;div property=&quot;schema:text&quot; class=&quot;field__item&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo diam, luctus mollis turpis a, ullamcorper vulputate purus. Phasellus et dapibus quam, facilisis consectetur lorem. Mauris vitae erat accumsan, congue risus non, malesuada sapien. Nunc consectetur elementum ante vitae pharetra. Phasellus porta et mauris et laoreet. Fusce neque tellus, egestas at eros nec, viverra ullamcorper lorem. Fusce tempus erat in elit aliquet, id rhoncus nisl blandit. Integer auctor eros non eros aliquet, vitae dignissim dolor auctor. Aliquam dui odio, ultrices vel metus nec, imperdiet luctus nibh. Sed in facilisis nunc, quis vehicula diam. Pellentesque tincidunt odio nec interdum ullamcorper. Suspendisse nec risus at sapien imperdiet ultricies.&lt;/p&gt;
+
+&lt;p&gt;Maecenas ornare tristique semper. Nulla facilisi. Phasellus ut tempor urna. Morbi tincidunt ligula vel magna auctor accumsan. Fusce gravida nisi non tortor consectetur pharetra vitae vel erat. Aenean et dolor tincidunt, varius dui non, ultricies orci. Donec tincidunt felis vel nulla sollicitudin consequat. Quisque sem ipsum, mollis eget quam tristique, posuere ultricies nulla. Curabitur porttitor a ipsum at dapibus. Morbi at aliquet metus. Mauris fermentum dui justo, quis blandit felis sollicitudin commodo. Phasellus in commodo orci, in ultricies nulla. Praesent elementum lobortis lacus vel ornare.&lt;/p&gt;
+
+&lt;p&gt;Proin et augue cursus ipsum vestibulum pulvinar ut id leo. Mauris sagittis lectus sagittis, pellentesque tellus non, porta dolor. Praesent eu metus eget leo tincidunt pharetra. Mauris sit amet massa lacinia, tempor nunc non, sollicitudin sem. In vel rutrum metus. In viverra a turpis nec ultrices. Curabitur eget scelerisque purus. Vestibulum elementum risus quis quam viverra, ut dapibus sem laoreet. Sed tincidunt lacus nec sem venenatis accumsan. Integer nec nisl felis. Donec cursus leo eu sapien tincidunt pharetra. Pellentesque molestie elementum dolor quis porta. Pellentesque tellus turpis, venenatis vitae tortor non, pulvinar porttitor augue.&lt;/p&gt;
+
+&lt;p&gt;Fusce volutpat dui sit amet dui ultrices tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum pulvinar dui sit amet nisl ullamcorper, id lobortis elit egestas. Aenean pellentesque vitae nisi a sollicitudin. Nunc dapibus ultrices facilisis. Pellentesque eu tempus dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin pulvinar eget mauris id luctus. Etiam erat felis, facilisis sit amet dolor nec, vehicula consectetur leo. Nam dapibus convallis justo ac porttitor. In pulvinar eget est eu sollicitudin. Sed tempor, leo et convallis varius, velit enim venenatis lorem, non ultricies neque nunc a eros. Praesent lorem leo, sollicitudin eu mi vitae, vulputate fringilla purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Sed nec massa ac ante consequat porttitor.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   x links--node.html.twig
+   x links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 09 Mar 2020 17:44:26 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">54 at https://rdrew.github.io</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>Musical Scores &amp; Typesetting</title>
+  <link>https://rdrew.github.io/node/53</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--page.html.twig
+   x field--node--title.html.twig
+   * field--node--page.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:name&quot; class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;Musical Scores &amp;amp; Typesetting&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--page.html.twig
+   x field--node--uid.html.twig
+   * field--node--page.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span rel=&quot;schema:author&quot; class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--page.html.twig
+   x field--node--created.html.twig
+   * field--node--page.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2020-03-09T17:43:18+00:00&quot; class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;Mon, 03/09/2020 - 17:43&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--body--page.html.twig
+   * field--node--body.html.twig
+   * field--node--page.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+    &lt;div property=&quot;schema:text&quot; class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items&quot;&gt;
+                &lt;div property=&quot;schema:text&quot; class=&quot;field__item&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo diam, luctus mollis turpis a, ullamcorper vulputate purus. Phasellus et dapibus quam, facilisis consectetur lorem. Mauris vitae erat accumsan, congue risus non, malesuada sapien. Nunc consectetur elementum ante vitae pharetra. Phasellus porta et mauris et laoreet. Fusce neque tellus, egestas at eros nec, viverra ullamcorper lorem. Fusce tempus erat in elit aliquet, id rhoncus nisl blandit. Integer auctor eros non eros aliquet, vitae dignissim dolor auctor. Aliquam dui odio, ultrices vel metus nec, imperdiet luctus nibh. Sed in facilisis nunc, quis vehicula diam. Pellentesque tincidunt odio nec interdum ullamcorper. Suspendisse nec risus at sapien imperdiet ultricies.&lt;/p&gt;
+
+&lt;p&gt;Maecenas ornare tristique semper. Nulla facilisi. Phasellus ut tempor urna. Morbi tincidunt ligula vel magna auctor accumsan. Fusce gravida nisi non tortor consectetur pharetra vitae vel erat. Aenean et dolor tincidunt, varius dui non, ultricies orci. Donec tincidunt felis vel nulla sollicitudin consequat. Quisque sem ipsum, mollis eget quam tristique, posuere ultricies nulla. Curabitur porttitor a ipsum at dapibus. Morbi at aliquet metus. Mauris fermentum dui justo, quis blandit felis sollicitudin commodo. Phasellus in commodo orci, in ultricies nulla. Praesent elementum lobortis lacus vel ornare.&lt;/p&gt;
+
+&lt;p&gt;Proin et augue cursus ipsum vestibulum pulvinar ut id leo. Mauris sagittis lectus sagittis, pellentesque tellus non, porta dolor. Praesent eu metus eget leo tincidunt pharetra. Mauris sit amet massa lacinia, tempor nunc non, sollicitudin sem. In vel rutrum metus. In viverra a turpis nec ultrices. Curabitur eget scelerisque purus. Vestibulum elementum risus quis quam viverra, ut dapibus sem laoreet. Sed tincidunt lacus nec sem venenatis accumsan. Integer nec nisl felis. Donec cursus leo eu sapien tincidunt pharetra. Pellentesque molestie elementum dolor quis porta. Pellentesque tellus turpis, venenatis vitae tortor non, pulvinar porttitor augue.&lt;/p&gt;
+
+&lt;p&gt;Fusce volutpat dui sit amet dui ultrices tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum pulvinar dui sit amet nisl ullamcorper, id lobortis elit egestas. Aenean pellentesque vitae nisi a sollicitudin. Nunc dapibus ultrices facilisis. Pellentesque eu tempus dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin pulvinar eget mauris id luctus. Etiam erat felis, facilisis sit amet dolor nec, vehicula consectetur leo. Nam dapibus convallis justo ac porttitor. In pulvinar eget est eu sollicitudin. Sed tempor, leo et convallis varius, velit enim venenatis lorem, non ultricies neque nunc a eros. Praesent lorem leo, sollicitudin eu mi vitae, vulputate fringilla purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Sed nec massa ac ante consequat porttitor.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   x links--node.html.twig
+   x links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 09 Mar 2020 17:43:18 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">53 at https://rdrew.github.io</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>Media</title>
+  <link>https://rdrew.github.io/node/52</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--page.html.twig
+   x field--node--title.html.twig
+   * field--node--page.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:name&quot; class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;Media&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--page.html.twig
+   x field--node--uid.html.twig
+   * field--node--page.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span rel=&quot;schema:author&quot; class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--page.html.twig
+   x field--node--created.html.twig
+   * field--node--page.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2020-03-09T17:40:17+00:00&quot; class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;Mon, 03/09/2020 - 17:40&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--body--page.html.twig
+   * field--node--body.html.twig
+   * field--node--page.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+    &lt;div property=&quot;schema:text&quot; class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items&quot;&gt;
+                &lt;div property=&quot;schema:text&quot; class=&quot;field__item&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo diam, luctus mollis turpis a, ullamcorper vulputate purus. Phasellus et dapibus quam, facilisis consectetur lorem. Mauris vitae erat accumsan, congue risus non, malesuada sapien. Nunc consectetur elementum ante vitae pharetra. Phasellus porta et mauris et laoreet. Fusce neque tellus, egestas at eros nec, viverra ullamcorper lorem. Fusce tempus erat in elit aliquet, id rhoncus nisl blandit. Integer auctor eros non eros aliquet, vitae dignissim dolor auctor. Aliquam dui odio, ultrices vel metus nec, imperdiet luctus nibh. Sed in facilisis nunc, quis vehicula diam. Pellentesque tincidunt odio nec interdum ullamcorper. Suspendisse nec risus at sapien imperdiet ultricies.&lt;/p&gt;
+
+&lt;p&gt;Maecenas ornare tristique semper. Nulla facilisi. Phasellus ut tempor urna. Morbi tincidunt ligula vel magna auctor accumsan. Fusce gravida nisi non tortor consectetur pharetra vitae vel erat. Aenean et dolor tincidunt, varius dui non, ultricies orci. Donec tincidunt felis vel nulla sollicitudin consequat. Quisque sem ipsum, mollis eget quam tristique, posuere ultricies nulla. Curabitur porttitor a ipsum at dapibus. Morbi at aliquet metus. Mauris fermentum dui justo, quis blandit felis sollicitudin commodo. Phasellus in commodo orci, in ultricies nulla. Praesent elementum lobortis lacus vel ornare.&lt;/p&gt;
+
+&lt;p&gt;Proin et augue cursus ipsum vestibulum pulvinar ut id leo. Mauris sagittis lectus sagittis, pellentesque tellus non, porta dolor. Praesent eu metus eget leo tincidunt pharetra. Mauris sit amet massa lacinia, tempor nunc non, sollicitudin sem. In vel rutrum metus. In viverra a turpis nec ultrices. Curabitur eget scelerisque purus. Vestibulum elementum risus quis quam viverra, ut dapibus sem laoreet. Sed tincidunt lacus nec sem venenatis accumsan. Integer nec nisl felis. Donec cursus leo eu sapien tincidunt pharetra. Pellentesque molestie elementum dolor quis porta. Pellentesque tellus turpis, venenatis vitae tortor non, pulvinar porttitor augue.&lt;/p&gt;
+
+&lt;p&gt;Fusce volutpat dui sit amet dui ultrices tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum pulvinar dui sit amet nisl ullamcorper, id lobortis elit egestas. Aenean pellentesque vitae nisi a sollicitudin. Nunc dapibus ultrices facilisis. Pellentesque eu tempus dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin pulvinar eget mauris id luctus. Etiam erat felis, facilisis sit amet dolor nec, vehicula consectetur leo. Nam dapibus convallis justo ac porttitor. In pulvinar eget est eu sollicitudin. Sed tempor, leo et convallis varius, velit enim venenatis lorem, non ultricies neque nunc a eros. Praesent lorem leo, sollicitudin eu mi vitae, vulputate fringilla purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Sed nec massa ac ante consequat porttitor.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   x links--node.html.twig
+   x links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 09 Mar 2020 17:40:17 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">52 at https://rdrew.github.io</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'views_view_row_rss' -->
+<!-- BEGIN OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+<item>
+  <title>Teaching</title>
+  <link>https://rdrew.github.io/node/51</link>
+  <description>
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--title--page.html.twig
+   x field--node--title.html.twig
+   * field--node--page.html.twig
+   * field--title.html.twig
+   * field--string.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:name&quot; class=&quot;field field--name-title field--type-string field--label-hidden&quot;&gt;Teaching&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;themes/custom/robdrew/templates/field--node--title.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--uid--page.html.twig
+   x field--node--uid.html.twig
+   * field--node--page.html.twig
+   * field--uid.html.twig
+   * field--entity-reference.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+&lt;span rel=&quot;schema:author&quot; class=&quot;field field--name-uid field--type-entity-reference field--label-hidden&quot;&gt;
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;username&#039; --&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+&lt;span lang=&quot;&quot; about=&quot;/user/1&quot; typeof=&quot;schema:Person&quot; property=&quot;schema:name&quot; datatype=&quot;&quot;&gt;admin&lt;/span&gt;
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/user/username.html.twig&#039; --&gt;
+
+&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--uid.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--created--page.html.twig
+   x field--node--created.html.twig
+   * field--node--page.html.twig
+   * field--created.html.twig
+   * field--created.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+&lt;span property=&quot;schema:dateCreated&quot; content=&quot;2020-03-09T17:38:14+00:00&quot; class=&quot;field field--name-created field--type-created field--label-hidden&quot;&gt;Mon, 03/09/2020 - 17:38&lt;/span&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--node--created.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;field&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   * field--node--body--page.html.twig
+   * field--node--body.html.twig
+   * field--node--page.html.twig
+   * field--body.html.twig
+   x field--text-with-summary.html.twig
+   * field.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+    &lt;div property=&quot;schema:text&quot; class=&quot;clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__items&quot;&gt;
+                &lt;div property=&quot;schema:text&quot; class=&quot;field__item&quot;&gt;
+        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer leo diam, luctus mollis turpis a, ullamcorper vulputate purus. Phasellus et dapibus quam, facilisis consectetur lorem. Mauris vitae erat accumsan, congue risus non, malesuada sapien. Nunc consectetur elementum ante vitae pharetra. Phasellus porta et mauris et laoreet. Fusce neque tellus, egestas at eros nec, viverra ullamcorper lorem. Fusce tempus erat in elit aliquet, id rhoncus nisl blandit. Integer auctor eros non eros aliquet, vitae dignissim dolor auctor. Aliquam dui odio, ultrices vel metus nec, imperdiet luctus nibh. Sed in facilisis nunc, quis vehicula diam. Pellentesque tincidunt odio nec interdum ullamcorper. Suspendisse nec risus at sapien imperdiet ultricies.&lt;/p&gt;
+
+&lt;p&gt;Maecenas ornare tristique semper. Nulla facilisi. Phasellus ut tempor urna. Morbi tincidunt ligula vel magna auctor accumsan. Fusce gravida nisi non tortor consectetur pharetra vitae vel erat. Aenean et dolor tincidunt, varius dui non, ultricies orci. Donec tincidunt felis vel nulla sollicitudin consequat. Quisque sem ipsum, mollis eget quam tristique, posuere ultricies nulla. Curabitur porttitor a ipsum at dapibus. Morbi at aliquet metus. Mauris fermentum dui justo, quis blandit felis sollicitudin commodo. Phasellus in commodo orci, in ultricies nulla. Praesent elementum lobortis lacus vel ornare.&lt;/p&gt;
+
+&lt;p&gt;Proin et augue cursus ipsum vestibulum pulvinar ut id leo. Mauris sagittis lectus sagittis, pellentesque tellus non, porta dolor. Praesent eu metus eget leo tincidunt pharetra. Mauris sit amet massa lacinia, tempor nunc non, sollicitudin sem. In vel rutrum metus. In viverra a turpis nec ultrices. Curabitur eget scelerisque purus. Vestibulum elementum risus quis quam viverra, ut dapibus sem laoreet. Sed tincidunt lacus nec sem venenatis accumsan. Integer nec nisl felis. Donec cursus leo eu sapien tincidunt pharetra. Pellentesque molestie elementum dolor quis porta. Pellentesque tellus turpis, venenatis vitae tortor non, pulvinar porttitor augue.&lt;/p&gt;
+
+&lt;p&gt;Fusce volutpat dui sit amet dui ultrices tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum pulvinar dui sit amet nisl ullamcorper, id lobortis elit egestas. Aenean pellentesque vitae nisi a sollicitudin. Nunc dapibus ultrices facilisis. Pellentesque eu tempus dolor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin pulvinar eget mauris id luctus. Etiam erat felis, facilisis sit amet dolor nec, vehicula consectetur leo. Nam dapibus convallis justo ac porttitor. In pulvinar eget est eu sollicitudin. Sed tempor, leo et convallis varius, velit enim venenatis lorem, non ultricies neque nunc a eros. Praesent lorem leo, sollicitudin eu mi vitae, vulputate fringilla purus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aliquam erat volutpat. Sed nec massa ac ante consequat porttitor.&lt;/p&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/field/field--text-with-summary.html.twig&#039; --&gt;
+
+
+
+&lt;!-- THEME DEBUG --&gt;
+&lt;!-- THEME HOOK: &#039;links__node&#039; --&gt;
+&lt;!-- FILE NAME SUGGESTIONS:
+   x links--node.html.twig
+   x links--node.html.twig
+   * links.html.twig
+--&gt;
+&lt;!-- BEGIN OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+&lt;!-- END OUTPUT from &#039;core/themes/classy/templates/content/links--node.html.twig&#039; --&gt;
+
+</description>
+  <pubDate>Mon, 09 Mar 2020 17:38:14 +0000</pubDate>
+    <dc:creator>admin</dc:creator>
+    <guid isPermaLink="false">51 at https://rdrew.github.io</guid>
+    </item>
+
+<!-- END OUTPUT from 'core/themes/classy/templates/views/views-view-row-rss.html.twig' -->
+
+
+  </channel>
+</rss>
+
+<!-- END OUTPUT from 'core/themes/classy/templates/views/views-view-rss.html.twig' -->
+

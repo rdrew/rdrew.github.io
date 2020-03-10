@@ -1,0 +1,22 @@
+uuid: 75b049a4-858f-4e69-9cc7-12f82f7aaef7
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - robdrew
+_core:
+  default_config_hash: 9EoWV2Lot6FVSr50t4hoKgiz1LIXYWNG-IIPYsWxBqo
+id: robdrew_content
+theme: robdrew
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

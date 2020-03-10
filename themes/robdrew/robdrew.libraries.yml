@@ -1,0 +1,15 @@
+global-css:
+  css:
+    theme:
+      #css/tufte/tufte.css: {}
+      css/compiled_css/app.css: {}
+
+global-js:
+  js:
+    js/script.js: {}
+  dependencies:
+    - core/jquery
+
+fancy-effect:
+  js:
+    js/fancy.js: {}
