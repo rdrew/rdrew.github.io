@@ -38,7 +38,7 @@ function sass() {
 function serve() {
   browserSync.init({
     //server: './',
-    proxy: '127.0.0.1:8888',
+    proxy: LOCALPROXY,
   });
 
   gulp.watch(PATHS.ScssDir + '/*.scss', sass);
