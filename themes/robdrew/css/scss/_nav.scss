@@ -1,0 +1,16 @@
+nav .menu {
+  border-top: 4px double $text-color;
+  border-bottom: 4px double $text-color;
+  display: flex;
+  justify-content: space-around;
+  //background: $topnav-bg-color;
+  a {
+    color: $text-color;
+    font-family: $smallcaps;
+    text-transform: uppercase;
+    text-decoration: none;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
