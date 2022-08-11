@@ -19,7 +19,7 @@ function loadConfig() {
 // BrowserSync
 function bsInit__local(done) {
   browsersync.init({
-    server: "."
+    server: '.'
   });
   done();
 }
@@ -29,7 +29,6 @@ function bsReload(done) {
   browsersync.reload();
   done();
 }
-
 
 // Compile CSS
 function styles() {
@@ -49,11 +48,12 @@ function styles() {
     .pipe(gulp.dest(PATHS.Css.Dir))
     .pipe(browsersync.stream());
 }
-
+const reload = browsersync.reload;
 // Watch Files
 function watchFiles() {
   'use strict';
   gulp.watch('./scss/**/*.scss', styles);
+  gulp.watch('./**/*.html', bsReload);
 }
 
 // Group complex tasks

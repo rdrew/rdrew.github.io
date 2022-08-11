@@ -496,4 +496,21 @@ table {
   text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
   background: #b4d5fe;
 }
+
+header {
+  display: flex;
+}
+header h1 {
+  margin-top: 1.9rem;
+}
+header figure {
+  margin: 0;
+}
+header img {
+  width: 700px;
+}
+
+.header-left {
+  flex-basis: 300px;
+}
 /*# sourceMappingURL=main.css.map */
