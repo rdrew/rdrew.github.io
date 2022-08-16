@@ -497,6 +497,11 @@ table {
   background: #b4d5fe;
 }
 
+.rob-beach {
+  border: 5px double #333;
+  line-height: 0;
+}
+
 .main-navigation {
   display: flex;
   list-style-type: none;
@@ -521,5 +526,14 @@ header img {
 
 .header-left {
   flex-basis: 300px;
+}
+
+@media (max-width: 900px) {
+  header {
+    display: block;
+  }
+  header img {
+    width: 600px;
+  }
 }
 /*# sourceMappingURL=main.css.map */

@@ -1,0 +1,42 @@
+.main-navigation {
+  display: flex;
+  list-style-type: none;
+  li {
+    margin-top: 0;
+    margin-right: 1rem;
+    //color:#fff;
+  }
+}
+nav {
+  //background: #68483c;
+}
+//header
+//@format
+header {
+  display: flex;
+  h1 {
+    margin-top: 1.9rem;
+  }
+  figure {
+    margin: 0;
+  }
+  img {
+    width: 700px;
+  }
+}
+.header-left {
+  //width: 5em;
+  flex-basis: 300px;
+}
+
+@media (max-width: 900px) {
+  body {
+    //background: #000;
+  }
+  header {
+    display: block;
+    img {
+      width: 600px;
+    }
+  }
+}
